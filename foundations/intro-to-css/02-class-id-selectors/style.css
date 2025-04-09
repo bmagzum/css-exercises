@@ -1,0 +1,19 @@
+.odd {
+    background-color: #fea6a6;
+    font-family: 'Verdan', 'DejaVu Sans', 'sans-serif';
+}
+
+.cooler, 
+#second_id {
+    font-size: 24px;
+}
+
+#first_id {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#second_id {
+    background-color: #7cf87c;
+    font-weight: bold;
+}
